@@ -7,27 +7,8 @@
 ##########################
 
 import sys
-import argparse
 import os
 import time
-import httplib
-import subprocess
-import re, urllib2
-import socket
-import urllib,sys,json
-import telnetlib
-import glob
-import random
-import Queue 
-import threading
-import base64
-from getpass import getpass
-from commands import *
-from sys import argv
-from platform import system
-from urlparse import urlparse
-from xml.dom import minidom
-from optparse import OptionParser
 from time import sleep
 
 print ( """\033[1;91m
